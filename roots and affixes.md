@@ -1,11 +1,15 @@
+# roots and arrixes
+
+> NOTE: We should speak each sentence carefully, accurately and skillfully!
+
 ## roots
 
-* pro
-* pre
+* pro	专业的 -> 好的 -> 支持；赞成 -> 正面的
+* pre    在......之前 -> preside;主持 -> president;总统 -> present;出席
 
 
 
 ## affixes
 
-* tion
-* al
+* tion    internet;互联网 -> internation;国际间的 -> international;国际化
+* al        .......化

@@ -1,4 +1,6 @@
-## speak English
+# speak English
+
+> NOTE: We should speak each sentence carefully, accurately and skillfully!
 
 Good **mor**ning.
 
