@@ -1,6 +1,6 @@
 # roots and arrixes
 
-> NOTE: We should speak each sentence carefully, accurately and skillfully!
+> NOTE: We should **spea**k each **sen**tence carefully, **accu**rately and skillfully!
 
 ## roots
 
