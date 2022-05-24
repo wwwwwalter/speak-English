@@ -1,0 +1,51 @@
+[core]
+	;(windows-true|linux-input)
+	autocrlf = true
+	safecrlf = false
+	editor = vim
+	quotepath = false
+	longpaths = true
+[color]
+	ui = true
+[user]
+	;name = your name
+	;email = your email
+	name = Albert
+	email = 15221024927@163.com
+[alias]
+	ci = commit
+	co = checkout
+	br = branch
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	ss = status
+  sss = status -s
+  cs = commit -s
+  cmds = commit --amend -s
+[push]
+	default = current
+[credential]
+	helper = store
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[init]
+	defaultBranch = main
+
+
+# AutoCRLF
+# 提交时转换为LF，检出时转换为CRLF(windows use true)
+# git config --global core.autocrlf true   
+# 提交时转换为LF，检出时不转换(linux use input)
+# git config --global core.autocrlf input   
+# 提交检出均不转换
+# git config --global core.autocrlf false
+
+# SafeCRLF
+# 拒绝提交包含混合换行符的文件
+# git config --global core.safecrlf true   
+# 允许提交包含混合换行符的文件
+# git config --global core.safecrlf false   
+# 提交包含混合换行符的文件时给出警告
+# git config --global core.safecrlf warn
