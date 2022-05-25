@@ -31,3 +31,27 @@ electronic = e-lec-tro-nic = **e**lec**tro**nic
 辅元-辅元-辅元-辅元
 
 以[辅元]为单元，交替加粗
+
+
+
+***Speaking** **english***
+
+Good morning, zhangyihan, do you have brush your teeth?
+
+No.
+
+Let's brush together.
+
+Add some toothpaste and water.
+
+Oh no, no water. 
+
+You can use the cold water.
+
+Brush, brush, brush...
+
+Ok, we're done. Let's wash my face. 
+
+Finished.
+
+Eat breakfast. Yummy yummy yummy.
