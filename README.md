@@ -34,7 +34,7 @@ If you don't want to manually enter the account name and password every time you
 
 ```shell
 open git-shell
-$ ssh key-gen
+$ ssh-keygen
 ```
 
 Running this command on a terminal will generate an .ssh directory with a pair of passwords in your user directory. Pub is the public key, and the other private key should be protected. Then copy the public key into your GIthub SSH manager.
