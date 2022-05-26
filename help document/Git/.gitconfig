@@ -16,7 +16,7 @@
 	ci = commit
 	co = checkout
 	br = branch
-	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cd) %C(bold blue)<%an>%Creset %C(bold blue)<%cn>%Creset' --abbrev-commit --date=short
 	ss = status
   sss = status -s
   cs = commit -s
