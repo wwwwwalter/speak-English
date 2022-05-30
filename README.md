@@ -21,6 +21,9 @@ Let's speak English.
   * [GitHub](https://docs.github.com/cn/get-started/quickstart/hello-world)
   * [Typora](https://pan.baidu.com/s/1L29j-3L2CfjRi2U7VFhT7Q?pwd=vc7p)
   * [Markdown](https://www.jianshu.com/p/191d1e21f7ed)
+
+![Alt](https://repobeats.axiom.co/api/embed/9c50b99a812a391f8bf366e38dc3691ca033a4e9.svg "Repobeats analytics image")
+
 ---
 **Step 1: GIt configuration** 
 
