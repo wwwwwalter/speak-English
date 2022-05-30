@@ -1,4 +1,17 @@
 # speak English
+![](https://img.shields.io/github/contributors/wwwwwalter/speak-English?color=BrightGreen)
+![](https://img.shields.io/github/issues-pr/wwwwwalter/speak-English)
+![](https://img.shields.io/github/issues-pr-closed/wwwwwalter/speak-English)
+![](https://img.shields.io/github/issues/wwwwwalter/speak-English)
+![](https://img.shields.io/github/issues-closed/wwwwwalter/speak-English)
+![](https://img.shields.io/github/release/wwwwwalter/speak-English)
+![](https://img.shields.io/github/last-commit/wwwwwalter/speak-English)
+![](https://img.shields.io/github/repo-size/wwwwwalter/speak-English)
+![](https://img.shields.io/github/stars/wwwwwalter/speak-English)
+[![github-watchers](https://img.shields.io/github/watchers/wwwwwalter/speak-English?label=Watch&style=social&logo=github)](https://github.com/wwwwwalter/speak-English)
+[![github-stars](https://img.shields.io/github/stars/wwwwwalter/speak-English?style=social&logo=github)](https://github.com/wwwwwalter/speak-English)
+[![github-forks](https://img.shields.io/github/forks/wwwwwalter/speak-English?label=Fork&style=social&logo=github)](https://github.com/wwwwwalter/speak-English)
+
 
 Author: :boy:Albert  :email:  15221024927@163.com, C/C++ software engineer.
 
